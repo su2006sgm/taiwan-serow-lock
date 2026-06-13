@@ -1,4 +1,4 @@
-# 山羊古鎖-互動式網站
+# -
 
 # 跨界工藝：台灣長鬃山羊與印尼Batik的互動古鎖模擬器
 > **大學生網頁互動工藝與文化符號之跨界專題研究** [![GitHub Pages](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://[su2006sgm].github.io/[山羊古鎖-互動式網站]/)
