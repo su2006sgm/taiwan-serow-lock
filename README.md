@@ -1,7 +1,7 @@
-# -
+# 
 
 # 跨界工藝：台灣長鬃山羊與印尼Batik的互動古鎖模擬器
-> **大學生網頁互動工藝與文化符號之跨界專題研究** [![GitHub Pages](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://[su2006sgm].github.io/[山羊古鎖-互動式網站]/)
+> **大學生網頁互動工藝與文化符號之跨界專題研究** [![GitHub Pages](https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://[su2006sgm].github.io/[-]/)
 ![Tech Stack](https://img.shields.io/badge/Tech_Stack-HTML5%20%7C%20TailwindCSS%20%7C%20VanillaJS-orange?style=for-the-badge)
 
 本專案是一款基於網頁原生技術（HTML5, Tailwind CSS, Vanilla JavaScript）開發的**跨文化互動工藝模擬器**。專案核心將**台灣特有種長鬃山羊**在絕壁攀登的堅韌意象，與**印尼西爪哇東巴加魯特羊（Domba Garut）**的強悍榮耀精神進行多維度縫合，並以**印尼皇家蠟染圖騰（Batik Parang）**作為3D表面材質貼圖（PBR）的創新嘗試，最終載體呈現為一把具備精密解鎖機關的傳統中式簧片古鎖。
